@@ -1,0 +1,6 @@
+bcrypt
+cryptography
+pyperclip
+sqlcipher3
+requests
+requests-oauthlib
